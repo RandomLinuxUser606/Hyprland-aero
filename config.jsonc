@@ -1,0 +1,17 @@
+{
+    "layer": "top",
+    "modules-center": ["clock"],
+    "modules-left": ["hyprland/workspaces"],
+    "modules-right": ["cpu", "memory"],
+    "clock": {
+        "format-alt": "{:%a, %d. %b  %H:%M}"
+    },
+    "cpu": {
+      "format": "CPU: {usage}%",
+      "interval": 1
+    },
+    "memory": {
+      "format": " RAM: {percentage}%",
+      "interval": 1
+    }
+}
