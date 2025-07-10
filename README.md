@@ -18,6 +18,7 @@ note: Use sudo acessing /etc/xdg/waybar. If you dont want that, please use ~/.co
 
 Install the nightfox nvim theme: https://github.com/EdenEast/nightfox.nvim
 Install the GTK theme: https://www.pling.com/p/2299363
+Install the kitty theme: E-ink dark
 
 ## Keybindings
 
